@@ -92,11 +92,9 @@ WHERE
 ORDER BY 
     TransactionID;
 
+### Contributions
 This project was developed in collaboration with various stakeholders and team members, emphasizing the importance of meeting client expectations and enhancing reconciliation efficiency. Key contributions include:
 
 Streamlined reconciliation processes leading to a 40% reduction in processing time.
 Improved customer satisfaction by 25% through accurate and timely financial reporting.
 Successfully managed the implementation of Oracle ARCS in two phases, addressing all client requirements.
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
