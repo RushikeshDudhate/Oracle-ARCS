@@ -13,7 +13,6 @@ The Oracle Account Reconciliation Cloud Service (ARCS) project focuses on automa
 - [Features](#features)
 - [Examples](#examples)
 - [Contributions](#contributions)
-- [License](#license)
 
 ## Project Description
 
